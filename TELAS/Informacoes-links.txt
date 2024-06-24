@@ -1,12 +1,12 @@
-UX | UI : Vanessa Villela de Carvalho
-Whatsapp:11 97290-4309
-Linkedin:https://www.linkedin.com/in/vanessa-villela/
+FIGMA | UX | UI : Josafa de Pinho Souza
+Whatsapp:11 98107-9198
+
 
 PROJETO GOODAY
 
-Link Navegavel:
-https://www.figma.com/proto/pzADGPyQ3nRftLiFMhY5sI/Projeto-Gooday---Vanessa-Villela?node-id=102%3A138&scaling=scale-down&page-id=102%3A115&starting-point-node-id=102%3A116
+Link para o projeto publicado online (live demo).
+https://www.figma.com/proto/eBxSmR9IBtS9gArSeYs9x1/Projeto-Gooday---Josafa-de-Pinho-Souza?node-id=109-228&t=SDZ0NckKeyF1zqgK-0&scaling=scale-down&content-scaling=fixed&page-id=102%3A115&starting-point-node-id=102%3A116&show-proto-sidebar=1
 
 
-Link Projeto
-https://www.figma.com/file/pzADGPyQ3nRftLiFMhY5sI/Projeto-Gooday---Vanessa-Villela?node-id=102%3A115&t=VgW9AFrFyKqdqX1h-1
+Link para o design no Figma.
+https://www.figma.com/design/eBxSmR9IBtS9gArSeYs9x1/Projeto-Gooday---Josafa-de-Pinho-Souza?node-id=162-1452&t=SDZ0NckKeyF1zqgK-0
