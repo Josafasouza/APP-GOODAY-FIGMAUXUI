@@ -13,5 +13,5 @@ https://www.figma.com/proto/eBxSmR9IBtS9gArSeYs9x1/Projeto-Gooday---Josafa-de-Pi
 ### Link projeto:
 https://www.figma.com/design/eBxSmR9IBtS9gArSeYs9x1/Projeto-Gooday---Josafa-de-Pinho-Souza?node-id=162-1452&t=SDZ0NckKeyF1zqgK-0
 
-![STYLE-GUIDE](https://user-images.githubusercontent.com/61437586/215113308-75256b29-25cf-47c1-88c6-d8e0ce6b885b.jpg)
+![STYLE-GUIDE](https://github.com/Josafasouza/APP-GOODAY-FIGMAUXUI/blob/main/STYLE-GUIDE.jpg)
 
